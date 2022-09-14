@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abbas-LegalPay
+- 👋 Hi, I’m Abbas-Senior Software Engineer at "LegalPay"
 - 👀 I’m interested in Django|DRF|Pythin programming
 - 🌱 I’m currently learning concept of AI and Machine Learning.
 - 💞️ I’m looking to collaborate on Ml & Ai
